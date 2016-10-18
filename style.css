@@ -1,8 +1,17 @@
-body{
+
+* {
+  margin: 10 10;
+  padding: 0;
+}
+
+body {
   font-family: 'Archivo Black', sans-serif;
-  margin-left: 50px;
-  margin-top: 50px;
-  align-content: center;
+  font-size: 14px;
+  line-height: 21px;
+  background-color: rgb(28, 182, 182)
+  margin: 20 20;
+  padding: 30px;
+  color: #333;
 }
 
 h1
