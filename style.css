@@ -253,3 +253,28 @@ li a:hover {
   background: #dddd88;
   background-color: #e2e2e2;
 }
+
+.cirriculumvitae {
+  padding: 0px;
+  margin: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  background-color: #1c8c8c;
+}
+
+.cvcontent {
+  padding: 25px;
+  margin: 0px;
+  order: 2
+  flex: 1 1 auto;
+  align-self: stretch;
+  min-width: 0;
+  min-height: auto;
+  background: #dddd88;
+  background-color: #e2e2e2;
+}
