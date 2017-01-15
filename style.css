@@ -257,7 +257,7 @@ li a:hover {
 .cirriculumvitae {
   padding: 0px;
   margin: 0px;
-  padding-top: 30px;
+  padding-top: 95px;
   padding-bottom: 30px;
   display: flex;
   flex-flow: row nowrap;
@@ -268,7 +268,7 @@ li a:hover {
 }
 
 .cvcontent {
-  padding: 25px;
+  padding: 55px;
   margin: 0px;
   order: 2
   flex: 1 1 auto;
